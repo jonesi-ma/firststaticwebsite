@@ -1,0 +1,12 @@
+body {text-align: center; font-family: Helvetica;
+    font-weight: 300; background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Coding.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffffff}
+a {color: rgb(88, 200, 245)}
+div {text-align: center}
+.firstformat {display: inline-block; text-align: left;}
+.secondformat {list-style-type: none; padding-left: 0;}
+.fett {font-weight: 800;}
+.crossed-out {text-decoration: line-through;}
